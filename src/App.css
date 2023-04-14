@@ -1,0 +1,7 @@
+.scale-up-vertical-center{
+    animation:scale-up-vertical-center 2s
+} 
+@keyframes scale-up-vertical-center{
+    0%{transform:scaleY(.2)}
+    100%{transform:scaleY(1)}
+}
