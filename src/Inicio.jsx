@@ -11,7 +11,7 @@ function App() {
 
   return (
     <div className="scale-up-vertical-center">
-      <h1 className='container'>Yael y Ashley❤ </h1>
+      <h1 className='container'>Yael y Ashley ❤</h1>
       <p className='container'>Estimados Yael y Ashley,me da gusto verlos crecer y juntos empezar este nuevo partido</p>
       <div className='container'>
       <IconContext.Provider value={{ className: 'react-icons' }}>
